@@ -1,0 +1,78 @@
+C:\Users\Андрей\Desktop\4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.exe
+C:\Users\Андрей\Desktop\4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.dll.config
+C:\Users\Андрей\Desktop\4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.deps.json
+C:\Users\Андрей\Desktop\4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.runtimeconfig.json
+C:\Users\Андрей\Desktop\4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.dll
+C:\Users\Андрей\Desktop\4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.pdb
+C:\Users\Андрей\Desktop\4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplateShared.dll
+C:\Users\Андрей\Desktop\4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplateShared.pdb
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate_MarkupCompile.cache
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.g.resources
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.Properties.Resources.resources
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgT.6A2C47E7.Up2Date
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.dll
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\refint\SysProgTemplate.dll
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.pdb
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\4\SysProgTemplate\obj\Debug\net9.0-windows\ref\SysProgTemplate.dll
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.exe
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.dll.config
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.dll
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.pdb
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplateShared.dll
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplateShared.pdb
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.g.resources
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgT.6A2C47E7.Up2Date
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.dll
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\refint\SysProgTemplate.dll
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.pdb
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\ref\SysProgTemplate.dll
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.exe
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.dll.config
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.deps.json
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.runtimeconfig.json
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.dll
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplate.pdb
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplateShared.dll
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\bin\Debug\net9.0-windows\SysProgTemplateShared.pdb
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.csproj.AssemblyReference.cache
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate_MarkupCompile.cache
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.g.resources
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.Properties.Resources.resources
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.csproj.GenerateResource.cache
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.AssemblyInfoInputs.cache
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.AssemblyInfo.cs
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgT.6A2C47E7.Up2Date
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.dll
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\refint\SysProgTemplate.dll
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.pdb
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\SysProgTemplate.genruntimeconfig.cache
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplate\obj\Debug\net9.0-windows\ref\SysProgTemplate.dll

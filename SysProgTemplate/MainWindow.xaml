@@ -1,0 +1,168 @@
+﻿<Window x:Class="SysProgTemplate.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Однопроходной ассемблер: абсолютный формат"
+        WindowStartupLocation="CenterScreen"
+        MinWidth="1100" MinHeight="700"
+        Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}">
+
+    <!-- Убираем скруглённую рамку у всех GroupBox -->
+    <Window.Resources>
+        <Style TargetType="GroupBox">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type GroupBox}">
+                        <Grid SnapsToDevicePixels="True">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+
+                            <!-- Заголовок без внешней рамки -->
+                            <ContentPresenter Grid.Row="0"
+                                              Margin="8,8,8,4"
+                                              RecognizesAccessKey="True"
+                                              ContentSource="Header"
+                                              TextElement.FontWeight="SemiBold"/>
+
+                            <!-- Контент без внешней рамки; учитываем Padding -->
+                            <ContentPresenter Grid.Row="1"
+                                              Margin="{TemplateBinding Padding}"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <!-- контент -->
+            <RowDefinition Height="Auto"/>
+            <!-- кнопки -->
+        </Grid.RowDefinitions>
+
+        <!--  ======= ОСНОВНОЕ ПОЛЕ С ТРЕМЯ КОЛОНКАМИ ======= -->
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" MinWidth="320"/>
+                <ColumnDefinition Width="5"/>
+                <!-- сплиттер -->
+                <ColumnDefinition Width="*" MinWidth="320"/>
+                <ColumnDefinition Width="5"/>
+                <!-- сплиттер -->
+                <ColumnDefinition Width="*" MinWidth="320"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- ====== КОЛОНКА 1: Исходник + Таблица команд ====== -->
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <!-- Мягкая пропорция: верх 3*, низ * -->
+                    <RowDefinition Height="3*"/>
+                    <RowDefinition Height="5"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <GroupBox Header="Исходный текст" Margin="8" Padding="6" Grid.Row="0">
+                    <Border BorderThickness="1" BorderBrush="#DDD">
+                        <TextBox x:Name="SourceCode_TextBox"
+                                 FontFamily="Consolas" FontSize="13"
+                                 AcceptsReturn="True" AcceptsTab="True"
+                                 TextWrapping="NoWrap"
+                                 HorizontalScrollBarVisibility="Auto"
+                                 VerticalScrollBarVisibility="Auto"/>
+                    </Border>
+                </GroupBox>
+
+                <GridSplitter Grid.Row="1" Height="5" HorizontalAlignment="Stretch" Background="#EEE"/>
+
+                <GroupBox Header="Таблица кодов операций" Margin="8" Padding="6" Grid.Row="2">
+                    <Border BorderThickness="1" BorderBrush="#DDD">
+                        <TextBox x:Name="Commands_TextBox"
+                                 FontFamily="Consolas" FontSize="13"
+                                 AcceptsReturn="True" AcceptsTab="True"
+                                 TextWrapping="NoWrap"
+                                 HorizontalScrollBarVisibility="Auto"
+                                 VerticalScrollBarVisibility="Auto"/>
+                    </Border>
+                </GroupBox>
+            </Grid>
+
+            <GridSplitter Grid.Column="1" Width="5" HorizontalAlignment="Stretch" Background="#EEE"/>
+
+            <!-- ====== КОЛОНКА 2: ТСИ ====== -->
+            <Grid Grid.Column="2">
+                <GroupBox Header="ТСИ (таблица символов/имен)" Margin="8" Padding="6">
+                    <Border BorderThickness="1" BorderBrush="#DDD">
+                        <TextBox x:Name="TSI_TextBox"
+                                 IsReadOnly="True"
+                                 FontFamily="Consolas" FontSize="13"
+                                 TextWrapping="NoWrap"
+                                 HorizontalScrollBarVisibility="Auto"
+                                 VerticalScrollBarVisibility="Auto"/>
+                    </Border>
+                </GroupBox>
+            </Grid>
+
+            <GridSplitter Grid.Column="3" Width="5" HorizontalAlignment="Stretch" Background="#EEE"/>
+
+            <!-- ====== КОЛОНКА 3: Двоичный код + Ошибки ====== -->
+            <Grid Grid.Column="4">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="5"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <GroupBox Header="Двоичный код" Margin="8" Padding="6" Grid.Row="0">
+                    <Border BorderThickness="1" BorderBrush="#DDD">
+                        <TextBox x:Name="BinaryCode_TextBox"
+                                 IsReadOnly="True"
+                                 FontFamily="Consolas" FontSize="13"
+                                 TextWrapping="NoWrap"
+                                 HorizontalScrollBarVisibility="Auto"
+                                 VerticalScrollBarVisibility="Auto"/>
+                    </Border>
+                </GroupBox>
+
+                <GridSplitter Grid.Row="1" Height="5" HorizontalAlignment="Stretch" Background="#EEE"/>
+
+                <GroupBox Header="Ошибки" Margin="8" Padding="6" Grid.Row="2">
+                    <Border BorderThickness="1" BorderBrush="#EEE">
+                        <TextBox x:Name="Errors_TextBox"
+                                 IsReadOnly="True"
+                                 Foreground="#B00020"
+                                 FontFamily="Consolas" FontSize="13"
+                                 TextWrapping="Wrap"
+                                 HorizontalScrollBarVisibility="Disabled"
+                                 VerticalScrollBarVisibility="Auto"/>
+                    </Border>
+                </GroupBox>
+            </Grid>
+        </Grid>
+
+        <!--  ======= ПАНЕЛЬ КНОПОК ======= -->
+        <DockPanel Grid.Row="1" LastChildFill="False" Margin="8,0,8,8">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                <Button Name="Pass_Button"
+                        Click="Pass_Button_Click"
+                        Margin="0,8,8,0" Padding="18,6"
+                        MinWidth="150">Первый проход</Button>
+
+                <Button Name="ProcessStep_Button"
+                        Click="ProcessStep_Button_Click"
+                        Margin="0,8,8,0" Padding="18,6"
+                        MinWidth="150">Шаг</Button>
+
+                <Button Name="Reset_Button"
+                        Click="Reset_Button_Click"
+                        Margin="0,8,8,0" Padding="18,6"
+                        MinWidth="150">Сброс</Button>
+            </StackPanel>
+        </DockPanel>
+    </Grid>
+</Window>

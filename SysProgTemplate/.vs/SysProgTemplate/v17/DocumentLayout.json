@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041A\u0410\u0418_\u0414\u0417\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043B\u0430\u0431\u044B\\me\\Lab4\\Lab4\\SysProgTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48777E6E-FCDE-4F93-B2D0-1FD21A5F1B77}|..\\SysProgTemplateShared\\SysProgTemplateShared.csproj|c:\\users\\danii\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0430\u0438_\u0434\u0437\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043B\u0430\u0431\u044B\\me\\lab4\\lab4\\sysprogtemplateshared\\assembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\Visual Studio 2022\\Sys\\Lab4\\SysProgTemplateShared\\Assembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365C4F5E-8119-4915-8FF7-4B9FB1595DEC}|SysProgTemplate.csproj|c:\\users\\danii\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0430\u0438_\u0434\u0437\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043B\u0430\u0431\u044B\\me\\lab4\\lab4\\sysprogtemplate\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{365C4F5E-8119-4915-8FF7-4B9FB1595DEC}|SysProgTemplate.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365C4F5E-8119-4915-8FF7-4B9FB1595DEC}|SysProgTemplate.csproj|c:\\users\\danii\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0430\u0438_\u0434\u0437\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043B\u0430\u0431\u044B\\me\\lab4\\lab4\\sysprogtemplate\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{365C4F5E-8119-4915-8FF7-4B9FB1595DEC}|SysProgTemplate.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Helpers\\Comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Helpers\\Parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\CodeLine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\Command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\SymbolicName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\Operand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Assembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365C4F5E-8119-4915-8FF7-4B9FB1595DEC}|SysProgTemplate.csproj|c:\\users\\danii\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u043A\u0430\u0438_\u0434\u0437\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043B\u0430\u0431\u044B\\me\\lab4\\lab4\\sysprogtemplate\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365C4F5E-8119-4915-8FF7-4B9FB1595DEC}|SysProgTemplate.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\storage\\courses\\\u0421\u0438\u0441\u041F\u0440\u043E\u0433\\\u043C\u043E\u0438 \u043B\u0430\u0431\u044B\\4\\SysProgTemplateShared\\Assembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\storage\\courses\\\u0421\u0438\u0441\u041F\u0440\u043E\u0433\\\u043C\u043E\u0438 \u043B\u0430\u0431\u044B\\4\\SysProgTemplateShared\\Structure\\Command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\storage\\courses\\\u0421\u0438\u0441\u041F\u0440\u043E\u0433\\\u043C\u043E\u0438 \u043B\u0430\u0431\u044B\\4\\SysProgTemplateShared\\Helpers\\Parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assembler.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041A\u0410\u0418_\u0414\u0417\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043B\u0430\u0431\u044B\\me\\Lab4\\Lab4\\SysProgTemplateShared\\Assembler.cs",
+              "RelativeDocumentMoniker": "..\\SysProgTemplateShared\\Assembler.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041A\u0410\u0418_\u0414\u0417\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043B\u0430\u0431\u044B\\me\\Lab4\\Lab4\\SysProgTemplateShared\\Assembler.cs",
+              "RelativeToolTip": "..\\SysProgTemplateShared\\Assembler.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAQwCcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T17:06:29.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assembler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Sys\\Lab4\\SysProgTemplateShared\\Assembler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\user\\Documents\\Visual Studio 2022\\Sys\\Lab4\\SysProgTemplateShared\\Assembler.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Sys\\Lab4\\SysProgTemplateShared\\Assembler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\user\\Documents\\Visual Studio 2022\\Sys\\Lab4\\SysProgTemplateShared\\Assembler.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:41:45.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041A\u0410\u0418_\u0414\u0417\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043B\u0430\u0431\u044B\\me\\Lab4\\Lab4\\SysProgTemplate\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041A\u0410\u0418_\u0414\u0417\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043B\u0430\u0431\u044B\\me\\Lab4\\Lab4\\SysProgTemplate\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-21T07:41:41.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comparer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Helpers\\Comparer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Helpers\\Comparer.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Helpers\\Comparer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Helpers\\Comparer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:04:13.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SymbolicName.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\SymbolicName.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\SymbolicName.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\SymbolicName.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\SymbolicName.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:04:06.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Operand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\Operand.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\Operand.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\Operand.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\Operand.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:04:04.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\Command.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\Command.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\Command.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\Command.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:03:49.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CodeLine.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\CodeLine.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\CodeLine.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\CodeLine.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Structure\\CodeLine.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:03:47.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Assembler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Assembler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Assembler.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Assembler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Assembler.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:03:38.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\User\\storage\\courses\\\u0421\u0438\u0441\u041F\u0440\u043E\u0433\\\u043C\u043E\u0438 \u043B\u0430\u0431\u044B\\4\\SysProgTemplateShared\\Structure\\Command.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\User\\storage\\courses\\\u0421\u0438\u0441\u041F\u0440\u043E\u0433\\\u043C\u043E\u0438 \u043B\u0430\u0431\u044B\\4\\SysProgTemplateShared\\Structure\\Command.cs",
+              "ToolTip": "C:\\Users\\User\\storage\\courses\\\u0421\u0438\u0441\u041F\u0440\u043E\u0433\\\u043C\u043E\u0438 \u043B\u0430\u0431\u044B\\4\\SysProgTemplateShared\\Structure\\Command.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\User\\storage\\courses\\\u0421\u0438\u0441\u041F\u0440\u043E\u0433\\\u043C\u043E\u0438 \u043B\u0430\u0431\u044B\\4\\SysProgTemplateShared\\Structure\\Command.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:27:51.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041A\u0410\u0418_\u0414\u0417\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043B\u0430\u0431\u044B\\me\\Lab4\\Lab4\\SysProgTemplate\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041A\u0410\u0418_\u0414\u0417\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043B\u0430\u0431\u044B\\me\\Lab4\\Lab4\\SysProgTemplate\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-22T06:44:49.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Helpers\\Parser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Helpers\\Parser.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Helpers\\Parser.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\4\\SysProgTemplateShared\\Helpers\\Parser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:04:15.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\storage\\courses\\\u0421\u0438\u0441\u041F\u0440\u043E\u0433\\\u043C\u043E\u0438 \u043B\u0430\u0431\u044B\\4\\SysProgTemplateShared\\Helpers\\Parser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\User\\storage\\courses\\\u0421\u0438\u0441\u041F\u0440\u043E\u0433\\\u043C\u043E\u0438 \u043B\u0430\u0431\u044B\\4\\SysProgTemplateShared\\Helpers\\Parser.cs",
+              "ToolTip": "C:\\Users\\User\\storage\\courses\\\u0421\u0438\u0441\u041F\u0440\u043E\u0433\\\u043C\u043E\u0438 \u043B\u0430\u0431\u044B\\4\\SysProgTemplateShared\\Helpers\\Parser.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\User\\storage\\courses\\\u0421\u0438\u0441\u041F\u0440\u043E\u0433\\\u043C\u043E\u0438 \u043B\u0430\u0431\u044B\\4\\SysProgTemplateShared\\Helpers\\Parser.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwCsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:10:14.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041A\u0410\u0418_\u0414\u0417\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043B\u0430\u0431\u044B\\me\\Lab4\\Lab4\\SysProgTemplate\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041A\u0410\u0418_\u0414\u0417\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043B\u0430\u0431\u044B\\me\\Lab4\\Lab4\\SysProgTemplate\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAnwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T12:49:48.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Assembler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\storage\\courses\\\u0421\u0438\u0441\u041F\u0440\u043E\u0433\\\u043C\u043E\u0438 \u043B\u0430\u0431\u044B\\4\\SysProgTemplateShared\\Assembler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\User\\storage\\courses\\\u0421\u0438\u0441\u041F\u0440\u043E\u0433\\\u043C\u043E\u0438 \u043B\u0430\u0431\u044B\\4\\SysProgTemplateShared\\Assembler.cs",
+              "ToolTip": "C:\\Users\\User\\storage\\courses\\\u0421\u0438\u0441\u041F\u0440\u043E\u0433\\\u043C\u043E\u0438 \u043B\u0430\u0431\u044B\\4\\SysProgTemplateShared\\Assembler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\User\\storage\\courses\\\u0421\u0438\u0441\u041F\u0440\u043E\u0433\\\u043C\u043E\u0438 \u043B\u0430\u0431\u044B\\4\\SysProgTemplateShared\\Assembler.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:42:45.748Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

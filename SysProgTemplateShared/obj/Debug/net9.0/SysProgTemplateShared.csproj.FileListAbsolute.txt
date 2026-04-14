@@ -1,0 +1,33 @@
+C:\Users\Андрей\Desktop\4\SysProgTemplateShared\bin\Debug\net9.0\SysProgTemplateShared.deps.json
+C:\Users\Андрей\Desktop\4\SysProgTemplateShared\bin\Debug\net9.0\SysProgTemplateShared.dll
+C:\Users\Андрей\Desktop\4\SysProgTemplateShared\bin\Debug\net9.0\SysProgTemplateShared.pdb
+C:\Users\Андрей\Desktop\4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.dll
+C:\Users\Андрей\Desktop\4\SysProgTemplateShared\obj\Debug\net9.0\refint\SysProgTemplateShared.dll
+C:\Users\Андрей\Desktop\4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.pdb
+C:\Users\Андрей\Desktop\4\SysProgTemplateShared\obj\Debug\net9.0\ref\SysProgTemplateShared.dll
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplateShared\bin\Debug\net9.0\SysProgTemplateShared.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplateShared\bin\Debug\net9.0\SysProgTemplateShared.dll
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplateShared\bin\Debug\net9.0\SysProgTemplateShared.pdb
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.dll
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplateShared\obj\Debug\net9.0\refint\SysProgTemplateShared.dll
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.pdb
+C:\Users\user\Documents\Visual Studio 2022\Sys\Lab4\SysProgTemplateShared\obj\Debug\net9.0\ref\SysProgTemplateShared.dll
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplateShared\bin\Debug\net9.0\SysProgTemplateShared.deps.json
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplateShared\bin\Debug\net9.0\SysProgTemplateShared.dll
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplateShared\bin\Debug\net9.0\SysProgTemplateShared.pdb
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.AssemblyInfoInputs.cache
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.AssemblyInfo.cs
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.dll
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplateShared\obj\Debug\net9.0\refint\SysProgTemplateShared.dll
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplateShared\obj\Debug\net9.0\SysProgTemplateShared.pdb
+C:\Users\danii\OneDrive\Документы\КАИ_ДЗ\системное программирование\лабы\me\Lab4\Lab4\SysProgTemplateShared\obj\Debug\net9.0\ref\SysProgTemplateShared.dll
